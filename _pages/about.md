@@ -34,7 +34,7 @@ SELECTED PUBLICATIONS
 
 [9] $\textcolor{red}{[IEEE ~TETCI]}$ M. Yi, P. Yang,  **M. Chen** and N. T. Loc, "A DRL-Driven Intelligent Joint Optimization Strategy for Computation Offloading and Resource Allocation in Ubiquitous Edge IoT Systems," in IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 7, no. 1, pp. 39-54, Feb. 2023, doi: 10.1109/TETCI.2022.3193367. 
 
-[8] $\textcolor{red}{[IEEE IoTJ]}$ W. Xiao, X. Ling,  **M. Chen**, J. Liang, S. A. AlQahtani and M. Chen, "MVPOA: A Learning-Based Vehicle Proposal Offloading for Cloud-Edge–Vehicle Networks," in IEEE Internet of Things Journal, vol. 12, no. 5, pp. 4738-4749, 1 March1, 2025, doi: 10.1109/JIOT.2024.3524469.
+[8] $\textcolor{red}{[IEEE ~IoTJ]}$ W. Xiao, X. Ling,  **M. Chen**, J. Liang, S. A. AlQahtani and M. Chen, "MVPOA: A Learning-Based Vehicle Proposal Offloading for Cloud-Edge–Vehicle Networks," in IEEE Internet of Things Journal, vol. 12, no. 5, pp. 4738-4749, 1 March1, 2025, doi: 10.1109/JIOT.2024.3524469.
 
 [7]  $\textcolor{red}{[Elsevier~ ESWA]}$ **M. Chen**, M Yi, M Huang, G Huang, Y Ren, A Liu. A novel deep policy gradient action quantization for trusted collaborative computation in intelligent vehicle networks. Expert Systems with Applications 221, 119743, 2023.
 
