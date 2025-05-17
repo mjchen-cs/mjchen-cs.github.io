@@ -27,7 +27,7 @@ SELECTED PUBLICATIONS
 
 [4]  **M. Chen**, H. Xie, X. Wang, W. Xiao, et al. Holographic Counterpart Computation Offloading via Reconfigurable Intelligent Surfaces in VEC Consumer Electronics. IEEE Transactions on Consumer Electronics. 2025.
 
-[5] Y. Huang, J. Zeng, Yanting Wei, **Miaojiang Chen***, Wenjing Xiao et al., "Self-Attention Policy Optimization for Task Offloading and Resource Allocation in Low-Carbon Agricultural Consumer Electronic Devices," in IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3563421.
+[5] Y. Huang, J. Zeng, Yanting Wei, **M. Chen***, Wenjing Xiao et al., "Self-Attention Policy Optimization for Task Offloading and Resource Allocation in Low-Carbon Agricultural Consumer Electronic Devices," in IEEE Transactions on Consumer Electronics, 2025, doi: 10.1109/TCE.2025.3563421.
 
 [6] **M. Chen**, A. Liu, W. Liu, K. Ota, M. Dong and N. N. Xiong, "RDRL: A Recurrent Deep Reinforcement Learning Scheme for Dynamic Spectrum Access in Reconfigurable Wireless Networks," in IEEE Transactions on Network Science and Engineering, vol. 9, no. 2, pp. 364-376, 1 March-April 2022, doi: 10.1109/TNSE.2021.3117565. 
 
