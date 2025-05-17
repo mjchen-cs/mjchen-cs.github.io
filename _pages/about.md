@@ -22,7 +22,7 @@ SELECTED PUBLICATIONS
 ======
 [15] <span style="color:red">[IEEE ~TMC]</span> __M. Chen__, A. Liu, N. N. Xiong, Y. Ren and H. H. Song, "ANNS: An Intelligent Advanced Non-Convex Non-Smooth Scheme for IRS-Aided Next Generation Mobile Communication Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3559099.
 
-[14] $\textcolor{red}{[IEEE ~JSAC]}$ **M. Chen**, A. Liu, N. N. Xiong, H. Song and V. C. M. Leung, "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 3, pp. 767-782, March 2024, doi: 10.1109/JSAC.2023.3345403.
+[14] <span style="color:red">[IEEE ~JSAC]</span>  **M. Chen**, A. Liu, N. N. Xiong, H. Song and V. C. M. Leung, "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 3, pp. 767-782, March 2024, doi: 10.1109/JSAC.2023.3345403.
 
 [13]  $\textcolor{red}{[IEEE ~T-ITS]}$ **M. Chen**, Kaiwen Luo, S. Wang, W. Xiao, et al. Federated Deep Reinforcement Learning for Combating Cyber-threats Specific to EV Charging in Next-Gen WPT Infrastructure. IEEE Transactions on Intelligent Transportation Systems, 2025, DoI:10.1109/TITS.2025.3569065.
 
