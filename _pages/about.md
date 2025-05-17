@@ -43,6 +43,7 @@ SELECTED PUBLICATIONS
 [5]  **M. Chen**, W Liu, T Wang, S Zhang, A Liu. A game-based deep reinforcement learning approach for energy-efficient computation in MEC systems. Knowledge-Based Systems 235, 107660, 2022.
 
 [4]  **M. Chen**, W Liu, T Wang, A Liu, Z Zeng. Edge intelligence computing for mobile augmented reality with deep reinforcement learning approach. Computer Networks 195, 108186, 2021.
+
 [3]  **M. Chen**, Z Li, P Chen, W Liu, A Liu. A novel differential dynamic gradient descent optimization algorithm for resource allocation and offloading in the COMEC system. International Journal of Intelligent Systems, 1-22, 2022.
 
 [2]  **M. Chen**, T Wang, S Zhang, A Liu. Deep reinforcement learning for computation offloading in mobile edge computing environment. Computer Communications 175, 1-12, 2021.
