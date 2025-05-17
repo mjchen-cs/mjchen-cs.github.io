@@ -57,7 +57,7 @@ PROFESSIONAL ACTIVITIES
 Journal Editors
 - Mathematics, Guest Editor
 - IET communications, Guest Editor
-- 2025 International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology, Local Organization Chairman
+- 2025 International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology, Local Organizing Chair
 
  Journal Reviewer
 - IEEE Transactions on Parallel and Distributed Systems
