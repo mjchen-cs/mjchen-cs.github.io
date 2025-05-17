@@ -13,8 +13,9 @@ Transportation Systems, IEEE Internet of things journal, IEEE Wireless Communica
 
 NEWS
 ======
+- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
 - May 2025 - 1 papers were accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to M. Chen and W. Xiao！
-- May 2025 - 1 papers were accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to M. Chen and W. Xiao！
+- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
 - April 2025 - 1 papers were accepted by IEEE Transactionson Mobile Computing. Congratulations to M. Chen.
 
 SELECTED PUBLICATIONS
