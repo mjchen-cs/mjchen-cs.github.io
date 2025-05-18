@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "chenmiaojiang.jpg"
   name             : "Miaojiang Chen"
-  pronouns         : "Ph.D"  
+  pronouns         : #"Ph.D"  
   bio              : "Contact information"
   location         : "China"
   employer         : "Guangxi University"
