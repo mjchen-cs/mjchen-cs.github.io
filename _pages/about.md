@@ -1,20 +1,18 @@
 ---
 permalink: /
-title: "Miaojiang Chen,  Ph.D, Research Fellow"
+title: "Miaojiang Chen,  Ph.D"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Research Fellow, <a href="https://umbc.edu/" style="text-decoration: none;">University of Maryland, Baltimore County</a>
 
-<a href="https://www.gxu.edu.cn/en/" style="text-decoration: none;">Guangxi University</a>
+Assistant professor, <a href="https://www.gxu.edu.cn/en/" style="text-decoration: none;">Guangxi University</a>
 
-<a href="https://lab.ccie.gxu.edu.cn/" style="text-decoration: none;">Guangxi Key Laboratory of Multimedia Communications and Network Technology</a>
+ Address: 100 Daxue East Road, Nanning City, Guangxi University
 
-[School of Computer, Electronics and Information, Guangxi University](https://www.gxu.edu.cn/en/)
-
-[Guangxi Key Laboratory of Multimedia Communications and Network Technology](https://lab.ccie.gxu.edu.cn/)
 
 Brief Biography
 ======
