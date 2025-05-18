@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIOGRAPHY"
+title: "Miaojiang Chen,  Ph.D, Research Fellow, Assistant professor"
 author_profile: true
 redirect_from: 
   - /about/
