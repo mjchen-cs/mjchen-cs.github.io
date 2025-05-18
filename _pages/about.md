@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-
+[School of Computer, Electronics and Information, Guangxi University]([https://example.com](https://www.gxu.edu.cn/en/))
 
 Brief Biography
 ======
