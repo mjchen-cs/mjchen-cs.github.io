@@ -9,6 +9,7 @@ redirect_from:
 
 
 [School of Computer, Electronics and Information, Guangxi University](https://www.gxu.edu.cn/en/)
+
 [Guangxi Key Laboratory of Multimedia Communications and Network Technology](https://lab.ccie.gxu.edu.cn/)
 
 Brief Biography
