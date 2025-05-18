@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Research Fellow, <a href="https://umbc.edu/" style="text-decoration: none;">University of Maryland, Baltimore County</a>
+**Research Fellow**, <a href="https://umbc.edu/" style="text-decoration: none;">University of Maryland, Baltimore County</a>
 
-Assistant professor, <a href="https://www.gxu.edu.cn/en/" style="text-decoration: none;">Guangxi University</a>
+**Assistant professor**, <a href="https://www.gxu.edu.cn/en/" style="text-decoration: none;">Guangxi University</a>
 
-Address: 100 Daxue East Road, Nanning City, Guangxi University
+**Address**: 100 Daxue East Road, Nanning City, Guangxi University
 
-Email: mjchen_cs AT gxu.edu.cn
+**Email**: mjchen_cs AT gxu.edu.cn
 
 
 Brief Biography
