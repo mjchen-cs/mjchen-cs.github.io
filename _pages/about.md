@@ -10,14 +10,14 @@ redirect_from:
 Miaojiang Chen received the Ph.D. degree in computer science from Central South University in 2023. He is currently an Assistant Professor of School of Computer and Electronic Information, Guangxi University, China. He has published several journal and
 conference papers in the IEEE Journal on Selected Areas in Communications, IEEE Transactionson Mobile Computing, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Consumer Electronics, IEEE transactions on network science and engineering, IEEE Transactions on Emerging Topics in Computational Intelligence, Knowledge-Based Systems, Expert Systems with Applications, International Journal of Intelligent Systems, Computer Network, etc., and  he also serves reviewer of the top-tier conferences and journals, including International Conference on Machine Learning (ICML), IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Information Forensics and Security, IEEE transactions on industrial informatics, IEEE Transactions on Intelligent
 Transportation Systems, IEEE Internet of things journal, IEEE Wireless Communications Letters. His major research interests include deep reinforcement learning, Internet of Things, edge computing, transfer learning,  optimization.
-
+***
 NEWS
 ======
 - May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
 - May 2025 - 1 papers were accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to M. Chen and W. Xiao！
 - May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
 - April 2025 - 1 papers were accepted by IEEE Transactionson Mobile Computing. Congratulations to M. Chen.
-
+***
 SELECTED PUBLICATIONS
 ======
 [15] <span style="color:red">[IEEE ~TMC]</span> __M. Chen__, A. Liu, N. N. Xiong, Y. Ren and H. H. Song, "ANNS: An Intelligent Advanced Non-Convex Non-Smooth Scheme for IRS-Aided Next Generation Mobile Communication Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3559099.
@@ -51,7 +51,7 @@ SELECTED PUBLICATIONS
 [1] <span style="color:red">[Elsevier~ CC]</span> **M. Chen**, T Wang, K Ota, M Dong, M Zhao, A Liu. Intelligent resource allocation management for vehicles network: An A3C learning approach. Computer Communications 151, 485-494, 2022.
 
 
-
+***
 PROFESSIONAL ACTIVITIES
 ======
 Journal Editors
@@ -79,7 +79,7 @@ Journal Editors
 
 
 
-
+***
 
 HONORS & AWARDS
 ------
