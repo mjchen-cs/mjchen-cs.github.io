@@ -10,6 +10,8 @@ redirect_from:
 
 <a href="https://www.gxu.edu.cn/en/" style="text-decoration: none;">Guangxi University</a>
 
+<a href="https://lab.ccie.gxu.edu.cn/" style="text-decoration: none;">Guangxi Key Laboratory of Multimedia Communications and Network Technology</a>
+
 [School of Computer, Electronics and Information, Guangxi University](https://www.gxu.edu.cn/en/)
 
 [Guangxi Key Laboratory of Multimedia Communications and Network Technology](https://lab.ccie.gxu.edu.cn/)
