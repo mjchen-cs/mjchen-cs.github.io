@@ -1,3 +1,11 @@
+
+
+Miaojiang Chen,  Ph.D. 
+
+Research Fellow, University of Maryland, Baltimore County
+
+Assistant professor， School of Computer, Electronics and Information, Guangxi University \& Guangxi Key Laboratory of Multimedia Communications and Network Technology
+
 ---
 permalink: /
 title: "BIOGRAPHY"
