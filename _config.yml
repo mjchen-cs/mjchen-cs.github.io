@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6311-9242"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
