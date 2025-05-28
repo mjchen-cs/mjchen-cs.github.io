@@ -24,15 +24,18 @@ Transportation Systems, IEEE Internet of things journal, IEEE Wireless Communica
 
 NEWS
 ======
-- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
-- May 2025 - 1 papers were accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to M. Chen and W. Xiao！
-- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to M. Chen and W. Xiao！
+- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to H. Xie.
+- May 2025 - 1 papers were accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to K. Lou.
+- May 2025 - 1 papers were accepted by Information fusion. Congratulations to W. Xiao.
+- May 2025 - 1 papers were accepted by IEEE Transactions on Consumer Electronics. Congratulations to Y. Huang.
 - April 2025 - 1 papers were accepted by IEEE Transactionson Mobile Computing. Congratulations to M. Chen.
   
 
 
 SELECTED PUBLICATIONS
 ======
+[16] <span style="color:red">[Elsevier INNFUS]</span> W. Xiao, Chenglong Shi, __M. Chen*__, Z. Liu, Min Chen, H. H.Song. GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network. Information Fusion, 2025.
+
 [15] <span style="color:red">[IEEE ~TMC]</span> __M. Chen__, A. Liu, N. N. Xiong, Y. Ren and H. H. Song, "ANNS: An Intelligent Advanced Non-Convex Non-Smooth Scheme for IRS-Aided Next Generation Mobile Communication Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3559099.
 
 [14] <span style="color:red">[IEEE ~JSAC]</span>  **M. Chen**, A. Liu, N. N. Xiong, H. Song and V. C. M. Leung, "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 3, pp. 767-782, March 2024, doi: 10.1109/JSAC.2023.3345403.
