@@ -34,7 +34,7 @@ NEWS
 
 SELECTED PUBLICATIONS
 ======
-[16] <span style="color:red">[Elsevier INNFUS]</span> W. Xiao, Chenglong Shi, __M. Chen*__, Z. Liu, Min Chen, H. H.Song. GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network. Information Fusion, 2025.
+[16] <span style="color:red">[Elsevier INFFUS]</span> W. Xiao, Chenglong Shi, __M. Chen*__, Z. Liu, Min Chen, H. H.Song. GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network. Information Fusion, 2025.
 
 [15] <span style="color:red">[IEEE ~TMC]</span> __M. Chen__, A. Liu, N. N. Xiong, Y. Ren and H. H. Song, "ANNS: An Intelligent Advanced Non-Convex Non-Smooth Scheme for IRS-Aided Next Generation Mobile Communication Networks," in IEEE Transactions on Mobile Computing, 2025, doi: 10.1109/TMC.2025.3559099.
 
